@@ -1,0 +1,52 @@
+2025-09-18 15:34:11,136 - __main__ - ERROR - Failed to import bot: cannot import name 'get_consents_collection' from 'src.shared.database' (/home/runner/workspace/src/shared/database.py)
+2025-09-18 15:34:57,650 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-18 15:34:57,652 - __main__ - INFO - Environment check passed. Starting bot...
+2025-09-18 15:34:58,083 - main_bot - INFO - Setting up Premium Bot Manager...
+2025-09-18 15:35:28,135 - src.shared.database - ERROR - Failed to connect to MongoDB: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68cc26a24a62f5063f12101c, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-09-18 15:35:28,136 - main_bot - ERROR - Failed to connect to database
+2025-09-18 15:35:30,465 - main_bot - INFO - Dm manager <3#4370 has connected to Discord!
+2025-09-18 15:35:30,466 - main_bot - INFO - Bot is in 1 guilds
+2025-09-18 15:36:24,467 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-18 15:36:24,469 - __main__ - INFO - Environment check passed. Starting bot...
+2025-09-18 15:36:24,896 - main_bot - INFO - Setting up Premium Bot Manager...
+2025-09-18 15:36:27,273 - src.shared.database - INFO - Connected to MongoDB: discord_bot_manager
+2025-09-18 15:36:34,380 - src.shared.database - INFO - All indexes created successfully
+2025-09-18 15:36:34,380 - src.controller.bot_manager - INFO - Loading bots from database...
+2025-09-18 15:36:34,607 - src.worker.bot_worker - INFO - Started bot worker for Free Rewards (68cbdd51185a285f32cd652d)
+2025-09-18 15:36:34,607 - src.controller.bot_manager - INFO - Loaded bot Free Rewards (68cbdd51185a285f32cd652d)
+2025-09-18 15:36:34,608 - src.worker.bot_worker - INFO - Started bot worker for Dm bot 2 (68cc1e0eefeee22f73ca523d)
+2025-09-18 15:36:34,608 - src.controller.bot_manager - INFO - Loaded bot Dm bot 2 (68cc1e0eefeee22f73ca523d)
+2025-09-18 15:36:34,608 - src.controller.bot_manager - INFO - Bot loading complete: 2 loaded, 0 failed
+2025-09-18 15:36:35,252 - main_bot - INFO - Synced 6 commands
+2025-09-18 15:36:37,320 - src.worker.bot_worker - INFO - Bot worker 68cbdd51185a285f32cd652d (Auto Rewarder#0352) is ready
+2025-09-18 15:36:37,430 - src.worker.bot_worker - INFO - Bot worker 68cc1e0eefeee22f73ca523d (Dm bot#8387) is ready
+2025-09-18 15:36:37,515 - main_bot - INFO - Dm manager <3#4370 has connected to Discord!
+2025-09-18 15:36:37,516 - main_bot - INFO - Bot is in 1 guilds
+2025-09-18 15:38:14,774 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-18 15:38:14,777 - __main__ - INFO - Environment check passed. Starting bot...
+2025-09-18 15:38:15,350 - main_bot - INFO - Setting up Premium Bot Manager...
+2025-09-18 15:38:17,604 - src.shared.database - INFO - Connected to MongoDB: discord_bot_manager
+2025-09-18 15:38:24,700 - src.shared.database - INFO - All indexes created successfully
+2025-09-18 15:38:24,702 - src.controller.bot_manager - INFO - Loading bots from database...
+2025-09-18 15:38:24,933 - src.worker.bot_worker - INFO - Started bot worker for Free Rewards (68cbdd51185a285f32cd652d)
+2025-09-18 15:38:24,934 - src.controller.bot_manager - INFO - Loaded bot Free Rewards (68cbdd51185a285f32cd652d)
+2025-09-18 15:38:24,936 - src.worker.bot_worker - INFO - Started bot worker for Dm bot 2 (68cc1e0eefeee22f73ca523d)
+2025-09-18 15:38:24,937 - src.controller.bot_manager - INFO - Loaded bot Dm bot 2 (68cc1e0eefeee22f73ca523d)
+2025-09-18 15:38:24,937 - src.controller.bot_manager - INFO - Bot loading complete: 2 loaded, 0 failed
+2025-09-18 15:38:25,292 - main_bot - INFO - Synced 6 commands
+2025-09-18 15:38:27,527 - main_bot - INFO - Dm manager <3#4370 has connected to Discord!
+2025-09-18 15:38:27,527 - main_bot - INFO - Bot is in 1 guilds
+2025-09-18 15:38:27,751 - src.worker.bot_worker - INFO - Bot worker 68cc1e0eefeee22f73ca523d (Dm bot#8387) is ready
+2025-09-18 15:38:27,857 - src.worker.bot_worker - INFO - Bot worker 68cbdd51185a285f32cd652d (Auto Rewarder#0352) is ready
+2025-09-18 15:39:36,711 - main_bot - INFO - Status changed to online with message 'Made by Lord Potato <3' by 1354833394097324153
+2025-09-18 15:40:28,342 - main_bot - INFO - Status changed to online with message 'Made by Potato <3' by 1354833394097324153
+2025-09-18 15:43:00,864 - main_bot - INFO - Status changed to dnd with message 'Made by Potato <3' by 1354833394097324153
+2025-09-18 15:43:56,222 - src.shared.member_assignment - INFO - Created new assignment: 325964673642135552 -> 68cc1e0eefeee22f73ca523d (load: 0)
+2025-09-18 15:43:57,357 - src.shared.member_assignment - INFO - Created new assignment: 1201849584180011008 -> 68cbdd51185a285f32cd652d (load: 1)
+2025-09-18 15:43:58,508 - src.shared.member_assignment - INFO - Created new assignment: 1284468016318517358 -> 68cc1e0eefeee22f73ca523d (load: 1)
+2025-09-18 15:43:59,647 - src.shared.member_assignment - INFO - Created new assignment: 1319239663130771472 -> 68cbdd51185a285f32cd652d (load: 2)
+2025-09-18 15:44:00,790 - src.shared.member_assignment - INFO - Created new assignment: 1340229213323530291 -> 68cc1e0eefeee22f73ca523d (load: 2)
+2025-09-18 15:44:01,943 - src.shared.member_assignment - INFO - Created new assignment: 1350133743989428378 -> 68cbdd51185a285f32cd652d (load: 3)
+2025-09-18 15:44:03,555 - src.shared.member_assignment - INFO - Created new assignment: 1380057471678283817 -> 68cc1e0eefeee22f73ca523d (load: 3)
+2025-09-18 15:44:45,856 - main_bot - INFO - Advanced DM campaign started by 1354833394097324153 in 1417552229581197364: 8 messages queued to ALL members with persistent assignments
+ERROR: Failed to import bot: No module named 'discord'
