@@ -18,6 +18,9 @@ import sys
 import asyncio
 import logging
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Add src directory to Python path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
